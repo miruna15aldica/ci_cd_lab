@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
         - name: webserver
-          image: ghcr.io/miruna15aldica/ci_cd_lab:latest
+          image: ghcr.io/miruna15aldica/ci_cd_lladsknflrknscab:latest
           ports:
             - containerPort: 8080
           imagePullPolicy: Always
